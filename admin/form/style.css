@@ -1,0 +1,75 @@
+.container{
+  width: 50%;
+  height: 800px;
+  margin-left: 400px ;
+  border: 1px solid white;
+  background-image: url('akta.jpg');
+  background-size: 100%;
+  background-repeat:no-repeat ;
+}
+
+.warga p{
+  width: 40%;
+  height: 15px;
+  margin-top: 332px;
+  margin-left: 385px;
+  /* border: 1px solid black; */
+}
+.alamat1 p{
+  width: 40%;
+  height: 15px;
+  margin-top: 118px;
+  margin-left: 350px;
+  /* border: 1px solid black; */
+}
+.alamat2 p{
+  width: 40%;
+  height: 15px;
+  margin-top: 20px;
+  margin-left: 220px;
+  /* border: 1px solid black; */
+}
+.tempat p{
+  width: 25%;
+  height: 15px;
+  margin-top: 0px;
+  margin-left: 180px;
+  /* border: 1px solid black; */
+  float: left;
+}
+.tanggal p{
+  width: 25%;
+  height: 15px;
+  margin-top: 0px;
+  margin-right: 80px;
+  /* border: 1px solid black; */
+  float: right;
+}
+.tahun p{
+  width: 40%;
+  height: 15px;
+  margin-top: 0px;
+  margin-left: 240px;
+  /* border: 1px solid black; */
+  float: left;
+}
+.nama p{
+  width: 40%;
+  height: 15px;
+  margin-top: 0px;
+  margin-left: 240px;
+  /* border: 1px solid black; */
+  float: left;
+}
+.anak p{
+  width: 40%;
+  height: 15px;
+  margin-top: 0px;
+  margin-left: 170px;
+  /* border: 1px solid black; */
+  float: left;
+}
+
+
+
+
